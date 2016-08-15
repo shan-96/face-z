@@ -1,0 +1,13 @@
+user based variables:
+1. username
+2. email id
+3. authourisation key/token of face recogniser
+4. face-z enability/disability option
+5. password
+6. profile photo
+7. account status (active/inactive)
+
+per session variables:
+1. timer
+2. email count
+3. condition code of to remote logout link

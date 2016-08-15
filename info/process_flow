@@ -1,0 +1,8 @@
+user registration:
+enter the following credentials - username, password, email id and upload a profile photo. activation link will be sent to your email id click on it to confirm your registration and activate your account.
+
+usage:
+upon activation of account login to it on your webpage. the real time face detector will click a photo from webcam every 5 minutes after login compare it with your profile photo and if matched delete the captured image. the webpage should be given access to device's camera by user if necessary. face-z is enabled for every account by default. if not given permission to webcam clicking on cancel will logout the user. the face-z can be disabled from settings, which requires confirmation from link sent to email id of the user.
+
+alert:
+upon photo mismatch, an alert mail is sent to user email id which has option to remote logout or temporarily disable face-z for the current session. for each session 3 such emails will be sent after 5 minutes of which the session will automatically expire and account will become inactive with the activation link sent to your mail id.
