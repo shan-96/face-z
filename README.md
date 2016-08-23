@@ -1,6 +1,8 @@
 # face-z
 real time face verfication using microsoft face API and trigger alert mail to your gmail account on face mismatch
 
+authors - shantanu patil
+
 face-z (v0.1)
 
 1. click your photo and store it in assets directory.
